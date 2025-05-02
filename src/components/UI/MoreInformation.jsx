@@ -66,4 +66,4 @@ function MoreInformation() {
   );
 }
 
-export default MoreInformation; 
+export default MoreInformation;
