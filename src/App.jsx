@@ -1,22 +1,22 @@
 // App layout
-import Page from "./components/sections/Page";
+import Page from "./components/Sections/Page";
 
 // Header
-import Header from "./components/sections/Header";
-import Navigation from "./components/sections/Navigation/Navigation";
-import Hero from "./components/sections/Hero";
+import Header from "./components/Sections/Header";
+import Navigation from "./components/Sections/Navigation/Navigation";
+import Hero from "./components/Sections/Hero";
 
 // Main
-import Main from "./components/sections/Main";
-import Dashboard from "./components/sections/Dashboard";
-import AppStatistics from "./components/sections/AppStatistics";
-import Features from "./components/sections/Features";
-import Pricing from "./components/sections/Pricing/Pricing";
-import Testimonials from "./components/sections/Testimonials/Testimonials";
-import CTA from "./components/sections/CTA";
+import Main from "./components/Sections/Main";
+import Dashboard from "./components/Sections/Dashboard";
+import AppStatistics from "./components/Sections/AppStatistics";
+import Features from "./components/Sections/Features";
+import Pricing from "./components/Sections/Pricing/Pricing";
+import Testimonials from "./components/Sections/Testimonials/Testimonials";
+import CTA from "./components/Sections/CTA";
 
 // Footer
-import Footer from "./components/sections/Footer";
+import Footer from "./components/Sections/Footer";
 
 // UI
 import Modal from "./components/UI/Modal";
